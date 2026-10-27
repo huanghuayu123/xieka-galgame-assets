@@ -15,4 +15,6 @@
 - 仓库地址：`https://github.com/huanghuayu123/xieka-galgame-assets`（插件会自动换成 jsDelivr 加速地址）
 - 索引文件：`https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/remote_assets.json`
 
-`remote_assets.json` 按插件“导出远程资源包”的格式写成，列出了全部立绘、背景和 CG 的网址（CG 指向另一个仓库）；图片在用到时才从网上加载。
+现在 `remote_assets.json` 里的图片网址都指向奶昔图床（img.naixiai.cn）。图床用不了时，可以改填 `remote_assets-jsdelivr.json`，图片从本仓库和 CG 仓库经 jsDelivr 加载。
+
+两个索引都按插件“导出远程资源包”的格式写成，列出了全部立绘、背景和 CG 的网址（CG 指向另一个仓库）；图片在用到时才从网上加载。
