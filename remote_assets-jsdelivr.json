@@ -1,6 +1,6 @@
 {
   "packageName": "什么！我的大学生活怎么会被五个女生霸占",
-  "exportDate": "2026-10-30T13:13:52Z",
+  "exportDate": "2026-10-30T14:36:07Z",
   "packId": "pack_default",
   "sprites": [
     {
@@ -236,6 +236,12 @@
       "expression": "搞怪",
       "packId": "pack_default",
       "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/七濑澪·春装_微笑.webp"
+    },
+    {
+      "characterId": "七濑澪·春装",
+      "expression": "生气",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/七濑澪·春装_生气.webp"
     },
     {
       "characterId": "七濑澪·睡衣",
@@ -1031,6 +1037,12 @@
     },
     {
       "characterId": "温迟迟·春装",
+      "expression": "害羞",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_害羞.webp"
+    },
+    {
+      "characterId": "温迟迟·春装",
       "expression": "默认",
       "packId": "pack_default",
       "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_默认.webp"
@@ -1040,6 +1052,30 @@
       "expression": "平静",
       "packId": "pack_default",
       "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_默认.webp"
+    },
+    {
+      "characterId": "温迟迟·春装",
+      "expression": "微笑",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_微笑.webp"
+    },
+    {
+      "characterId": "温迟迟·春装",
+      "expression": "开心",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_微笑.webp"
+    },
+    {
+      "characterId": "温迟迟·春装",
+      "expression": "大笑",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_微笑.webp"
+    },
+    {
+      "characterId": "温迟迟·春装",
+      "expression": "搞怪",
+      "packId": "pack_default",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/sprites/温迟迟·春装_微笑.webp"
     },
     {
       "characterId": "温迟迟·春装",
@@ -13211,6 +13247,2225 @@
       "lastModified": "2026-10-30T13:13:52Z",
       "file": "西行寺四叶_CG141_花瓣落在发间.webp",
       "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG141_花瓣落在发间.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG66_新年和服",
+      "name": "新年和服",
+      "description": "西行寺四叶 · 适合阶段：恋人",
+      "tags": [
+        "西行寺四叶",
+        "恋人",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG66_新年和服.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG66_新年和服.webp"
+    },
+    {
+      "cgId": "白音_CG85_弱弱地否认",
+      "name": "弱弱地否认",
+      "description": "白音 · 适合阶段：等告白",
+      "tags": [
+        "白音",
+        "等告白",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG85_弱弱地否认.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG85_弱弱地否认.webp"
+    },
+    {
+      "cgId": "XL103_京都向导之争",
+      "name": "京都向导之争",
+      "description": "七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL103_京都向导之争.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL103_京都向导之争.webp"
+    },
+    {
+      "cgId": "XL107_科学和花艺",
+      "name": "科学和花艺",
+      "description": "仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL107_科学和花艺.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL107_科学和花艺.webp"
+    },
+    {
+      "cgId": "XL110_安静的竞争",
+      "name": "安静的竞争",
+      "description": "温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL110_安静的竞争.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL110_安静的竞争.webp"
+    },
+    {
+      "cgId": "XL116_教你日语和数学",
+      "name": "教你日语和数学",
+      "description": "西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL116_教你日语和数学.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL116_教你日语和数学.webp"
+    },
+    {
+      "cgId": "XL144_三人逛超市",
+      "name": "三人逛超市",
+      "description": "仇绾圆、七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第三批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL144_三人逛超市.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL144_三人逛超市.webp"
+    },
+    {
+      "cgId": "七濑澪_CG106_跳舞机",
+      "name": "跳舞机",
+      "description": "七濑澪 · 适合阶段：走近",
+      "tags": [
+        "七濑澪",
+        "走近",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "七濑澪_CG106_跳舞机.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/七濑澪_CG106_跳舞机.webp"
+    },
+    {
+      "cgId": "七濑澪_CG118_家里寄来的包裹",
+      "name": "家里寄来的包裹",
+      "description": "七濑澪 · 适合阶段：走近",
+      "tags": [
+        "七濑澪",
+        "走近",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "七濑澪_CG118_家里寄来的包裹.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/七濑澪_CG118_家里寄来的包裹.webp"
+    },
+    {
+      "cgId": "七濑澪_CG120_关东煮",
+      "name": "关东煮",
+      "description": "七濑澪 · 适合阶段：走近",
+      "tags": [
+        "七濑澪",
+        "走近",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "七濑澪_CG120_关东煮.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/七濑澪_CG120_关东煮.webp"
+    },
+    {
+      "cgId": "七濑澪_CG127_她感冒了",
+      "name": "她感冒了",
+      "description": "七濑澪 · 适合阶段：心动",
+      "tags": [
+        "七濑澪",
+        "心动",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "七濑澪_CG127_她感冒了.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/七濑澪_CG127_她感冒了.webp"
+    },
+    {
+      "cgId": "七濑澪_CG131_考试周通宵",
+      "name": "考试周通宵",
+      "description": "七濑澪 · 适合阶段：心动",
+      "tags": [
+        "七濑澪",
+        "心动",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "七濑澪_CG131_考试周通宵.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/七濑澪_CG131_考试周通宵.webp"
+    },
+    {
+      "cgId": "仇绾圆_CG109_第一次打太鼓",
+      "name": "第一次打太鼓",
+      "description": "仇绾圆 · 适合阶段：青梅竹马的日常",
+      "tags": [
+        "仇绾圆",
+        "青梅竹马的日常",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "仇绾圆_CG109_第一次打太鼓.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/仇绾圆_CG109_第一次打太鼓.webp"
+    },
+    {
+      "cgId": "仇绾圆_CG118_父母出差的夜",
+      "name": "父母出差的夜",
+      "description": "仇绾圆 · 适合阶段：暗恋萌芽",
+      "tags": [
+        "仇绾圆",
+        "暗恋萌芽",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "仇绾圆_CG118_父母出差的夜.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/仇绾圆_CG118_父母出差的夜.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG113_又说没事",
+      "name": "又说没事",
+      "description": "西行寺四叶 · 适合阶段：暗恋依赖",
+      "tags": [
+        "西行寺四叶",
+        "暗恋依赖",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG113_又说没事.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG113_又说没事.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG115_和好的拥抱",
+      "name": "和好的拥抱",
+      "description": "西行寺四叶 · 适合阶段：恋人",
+      "tags": [
+        "西行寺四叶",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG115_和好的拥抱.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG115_和好的拥抱.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG122_外卖到了",
+      "name": "外卖到了",
+      "description": "西行寺四叶 · 适合阶段：走近",
+      "tags": [
+        "西行寺四叶",
+        "走近",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG122_外卖到了.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG122_外卖到了.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG137_游戏语音",
+      "name": "游戏语音",
+      "description": "西行寺四叶 · 适合阶段：走近",
+      "tags": [
+        "西行寺四叶",
+        "走近",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG137_游戏语音.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG137_游戏语音.webp"
+    },
+    {
+      "cgId": "西行寺四叶_CG142_初雪许愿",
+      "name": "初雪许愿",
+      "description": "西行寺四叶 · 适合阶段：等告白",
+      "tags": [
+        "西行寺四叶",
+        "等告白",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "西行寺四叶_CG142_初雪许愿.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/西行寺四叶_CG142_初雪许愿.webp"
+    },
+    {
+      "cgId": "温迟迟_CG103_水族馆的蓝",
+      "name": "水族馆的蓝",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG103_水族馆的蓝.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG103_水族馆的蓝.webp"
+    },
+    {
+      "cgId": "温迟迟_CG104_文艺片",
+      "name": "文艺片",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG104_文艺片.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG104_文艺片.webp"
+    },
+    {
+      "cgId": "温迟迟_CG106_不会玩的抓娃娃",
+      "name": "不会玩的抓娃娃",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG106_不会玩的抓娃娃.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG106_不会玩的抓娃娃.webp"
+    },
+    {
+      "cgId": "温迟迟_CG108_温室写生",
+      "name": "温室写生",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG108_温室写生.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG108_温室写生.webp"
+    },
+    {
+      "cgId": "温迟迟_CG109_一个人的展望台",
+      "name": "一个人的展望台",
+      "description": "温迟迟 · 适合阶段：等着被打捞",
+      "tags": [
+        "温迟迟",
+        "等着被打捞",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG109_一个人的展望台.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG109_一个人的展望台.webp"
+    },
+    {
+      "cgId": "温迟迟_CG110_樱花道读诗",
+      "name": "樱花道读诗",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG110_樱花道读诗.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG110_樱花道读诗.webp"
+    },
+    {
+      "cgId": "温迟迟_CG111_你终于看见了",
+      "name": "你终于看见了",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG111_你终于看见了.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG111_你终于看见了.webp"
+    },
+    {
+      "cgId": "温迟迟_CG112_告白后的咨询室",
+      "name": "告白后的咨询室",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG112_告白后的咨询室.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG112_告白后的咨询室.webp"
+    },
+    {
+      "cgId": "温迟迟_CG113_不说出来的委屈",
+      "name": "不说出来的委屈",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG113_不说出来的委屈.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG113_不说出来的委屈.webp"
+    },
+    {
+      "cgId": "温迟迟_CG114_第一次说不",
+      "name": "第一次说不",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG114_第一次说不.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG114_第一次说不.webp"
+    },
+    {
+      "cgId": "温迟迟_CG115_和好的信",
+      "name": "和好的信",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG115_和好的信.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG115_和好的信.webp"
+    },
+    {
+      "cgId": "温迟迟_CG116_网友的倾诉",
+      "name": "网友的倾诉",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG116_网友的倾诉.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG116_网友的倾诉.webp"
+    },
+    {
+      "cgId": "温迟迟_CG117_寄回家的明信片",
+      "name": "寄回家的明信片",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG117_寄回家的明信片.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG117_寄回家的明信片.webp"
+    },
+    {
+      "cgId": "温迟迟_CG118_小时候的日记",
+      "name": "小时候的日记",
+      "description": "温迟迟 · 适合阶段：等着被打捞",
+      "tags": [
+        "温迟迟",
+        "等着被打捞",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG118_小时候的日记.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG118_小时候的日记.webp"
+    },
+    {
+      "cgId": "温迟迟_CG119_值班登记",
+      "name": "值班登记",
+      "description": "温迟迟 · 适合阶段：普通朋友",
+      "tags": [
+        "温迟迟",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG119_值班登记.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG119_值班登记.webp"
+    },
+    {
+      "cgId": "温迟迟_CG120_社团活动",
+      "name": "社团活动",
+      "description": "温迟迟 · 适合阶段：普通朋友",
+      "tags": [
+        "温迟迟",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG120_社团活动.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG120_社团活动.webp"
+    },
+    {
+      "cgId": "温迟迟_CG121_聚会的边上",
+      "name": "聚会的边上",
+      "description": "温迟迟 · 适合阶段：普通朋友",
+      "tags": [
+        "温迟迟",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG121_聚会的边上.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG121_聚会的边上.webp"
+    },
+    {
+      "cgId": "温迟迟_CG122_替你记笔记",
+      "name": "替你记笔记",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG122_替你记笔记.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG122_替你记笔记.webp"
+    },
+    {
+      "cgId": "温迟迟_CG123_修眼镜",
+      "name": "修眼镜",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG123_修眼镜.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG123_修眼镜.webp"
+    },
+    {
+      "cgId": "温迟迟_CG124_闭馆时分",
+      "name": "闭馆时分",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG124_闭馆时分.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG124_闭馆时分.webp"
+    },
+    {
+      "cgId": "温迟迟_CG125_窗台的多肉",
+      "name": "窗台的多肉",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG125_窗台的多肉.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG125_窗台的多肉.webp"
+    },
+    {
+      "cgId": "温迟迟_CG127_她感冒了",
+      "name": "她感冒了",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG127_她感冒了.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG127_她感冒了.webp"
+    },
+    {
+      "cgId": "温迟迟_CG128_陪你失眠",
+      "name": "陪你失眠",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG128_陪你失眠.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG128_陪你失眠.webp"
+    },
+    {
+      "cgId": "温迟迟_CG129_女仆咖啡厅",
+      "name": "女仆咖啡厅",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG129_女仆咖啡厅.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG129_女仆咖啡厅.webp"
+    },
+    {
+      "cgId": "温迟迟_CG130_运动会救护站",
+      "name": "运动会救护站",
+      "description": "温迟迟 · 适合阶段：普通朋友",
+      "tags": [
+        "温迟迟",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG130_运动会救护站.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG130_运动会救护站.webp"
+    },
+    {
+      "cgId": "温迟迟_CG131_期末复习",
+      "name": "期末复习",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG131_期末复习.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG131_期末复习.webp"
+    },
+    {
+      "cgId": "温迟迟_CG132_毕业典礼",
+      "name": "毕业典礼",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG132_毕业典礼.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG132_毕业典礼.webp"
+    },
+    {
+      "cgId": "温迟迟_CG133_第一天上班",
+      "name": "第一天上班",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG133_第一天上班.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG133_第一天上班.webp"
+    },
+    {
+      "cgId": "温迟迟_CG134_一起的书房",
+      "name": "一起的书房",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG134_一起的书房.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG134_一起的书房.webp"
+    },
+    {
+      "cgId": "温迟迟_CG135_婚纱",
+      "name": "婚纱",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG135_婚纱.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG135_婚纱.webp"
+    },
+    {
+      "cgId": "温迟迟_CG136_晚安短信",
+      "name": "晚安短信",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG136_晚安短信.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG136_晚安短信.webp"
+    },
+    {
+      "cgId": "温迟迟_CG137_打了又挂",
+      "name": "打了又挂",
+      "description": "温迟迟 · 适合阶段：等着被打捞",
+      "tags": [
+        "温迟迟",
+        "等着被打捞",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG137_打了又挂.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG137_打了又挂.webp"
+    },
+    {
+      "cgId": "温迟迟_CG138_摘下眼镜",
+      "name": "摘下眼镜",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG138_摘下眼镜.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG138_摘下眼镜.webp"
+    },
+    {
+      "cgId": "温迟迟_CG139_认出你的脚步声",
+      "name": "认出你的脚步声",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG139_认出你的脚步声.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG139_认出你的脚步声.webp"
+    },
+    {
+      "cgId": "温迟迟_CG140_雨中送伞",
+      "name": "雨中送伞",
+      "description": "温迟迟 · 适合阶段：倾诉对象",
+      "tags": [
+        "温迟迟",
+        "倾诉对象",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG140_雨中送伞.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG140_雨中送伞.webp"
+    },
+    {
+      "cgId": "温迟迟_CG141_星空下的诗",
+      "name": "星空下的诗",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG141_星空下的诗.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG141_星空下的诗.webp"
+    },
+    {
+      "cgId": "温迟迟_CG142_一只手套",
+      "name": "一只手套",
+      "description": "温迟迟 · 适合阶段：恋人",
+      "tags": [
+        "温迟迟",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "温迟迟_CG142_一只手套.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG142_一只手套.webp"
+    },
+    {
+      "cgId": "白音_CG103_鱼群算法",
+      "name": "鱼群算法",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG103_鱼群算法.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG103_鱼群算法.webp"
+    },
+    {
+      "cgId": "白音_CG104_科幻片",
+      "name": "科幻片",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG104_科幻片.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG104_科幻片.webp"
+    },
+    {
+      "cgId": "白音_CG105_KTV说唱",
+      "name": "KTV说唱",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG105_KTV说唱.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG105_KTV说唱.webp"
+    },
+    {
+      "cgId": "白音_CG106_算出来的娃娃",
+      "name": "算出来的娃娃",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG106_算出来的娃娃.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG106_算出来的娃娃.webp"
+    },
+    {
+      "cgId": "白音_CG108_一个人的实验室",
+      "name": "一个人的实验室",
+      "description": "白音 · 适合阶段：普通朋友",
+      "tags": [
+        "白音",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG108_一个人的实验室.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG108_一个人的实验室.webp"
+    },
+    {
+      "cgId": "白音_CG109_投篮",
+      "name": "投篮",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG109_投篮.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG109_投篮.webp"
+    },
+    {
+      "cgId": "白音_CG110_向日葵的螺旋",
+      "name": "向日葵的螺旋",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG110_向日葵的螺旋.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG110_向日葵的螺旋.webp"
+    },
+    {
+      "cgId": "白音_CG111_原来这就是喜欢",
+      "name": "原来这就是喜欢",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG111_原来这就是喜欢.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG111_原来这就是喜欢.webp"
+    },
+    {
+      "cgId": "白音_CG112_照样拉你走",
+      "name": "照样拉你走",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG112_照样拉你走.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG112_照样拉你走.webp"
+    },
+    {
+      "cgId": "白音_CG113_这不对",
+      "name": "这不对",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG113_这不对.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG113_这不对.webp"
+    },
+    {
+      "cgId": "白音_CG114_转身就走",
+      "name": "转身就走",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG114_转身就走.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG114_转身就走.webp"
+    },
+    {
+      "cgId": "白音_CG115_和好的解法",
+      "name": "和好的解法",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG115_和好的解法.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG115_和好的解法.webp"
+    },
+    {
+      "cgId": "白音_CG116_妈妈猜猜我今天干了什么",
+      "name": "妈妈猜猜我今天干了什么",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG116_妈妈猜猜我今天干了什么.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG116_妈妈猜猜我今天干了什么.webp"
+    },
+    {
+      "cgId": "白音_CG117_和妈妈做饭",
+      "name": "和妈妈做饭",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG117_和妈妈做饭.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG117_和妈妈做饭.webp"
+    },
+    {
+      "cgId": "白音_CG118_妈妈问起你",
+      "name": "妈妈问起你",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG118_妈妈问起你.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG118_妈妈问起你.webp"
+    },
+    {
+      "cgId": "白音_CG119_课上递纸条",
+      "name": "课上递纸条",
+      "description": "白音 · 适合阶段：普通朋友",
+      "tags": [
+        "白音",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG119_课上递纸条.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG119_课上递纸条.webp"
+    },
+    {
+      "cgId": "白音_CG120_旷课逛操场",
+      "name": "旷课逛操场",
+      "description": "白音 · 适合阶段：普通朋友",
+      "tags": [
+        "白音",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG120_旷课逛操场.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG120_旷课逛操场.webp"
+    },
+    {
+      "cgId": "白音_CG121_画你",
+      "name": "画你",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG121_画你.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG121_画你.webp"
+    },
+    {
+      "cgId": "白音_CG122_少年班竞赛",
+      "name": "少年班竞赛",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG122_少年班竞赛.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG122_少年班竞赛.webp"
+    },
+    {
+      "cgId": "白音_CG124_替人说理",
+      "name": "替人说理",
+      "description": "白音 · 适合阶段：普通朋友",
+      "tags": [
+        "白音",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG124_替人说理.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG124_替人说理.webp"
+    },
+    {
+      "cgId": "白音_CG125_图书馆的阳光",
+      "name": "图书馆的阳光",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG125_图书馆的阳光.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG125_图书馆的阳光.webp"
+    },
+    {
+      "cgId": "白音_CG126_便利店新品",
+      "name": "便利店新品",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG126_便利店新品.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG126_便利店新品.webp"
+    },
+    {
+      "cgId": "白音_CG127_熬夜后的低烧",
+      "name": "熬夜后的低烧",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG127_熬夜后的低烧.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG127_熬夜后的低烧.webp"
+    },
+    {
+      "cgId": "白音_CG128_退烧贴",
+      "name": "退烧贴",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG128_退烧贴.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG128_退烧贴.webp"
+    },
+    {
+      "cgId": "白音_CG129_面无表情的女仆",
+      "name": "面无表情的女仆",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG129_面无表情的女仆.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG129_面无表情的女仆.webp"
+    },
+    {
+      "cgId": "白音_CG130_计时员",
+      "name": "计时员",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG130_计时员.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG130_计时员.webp"
+    },
+    {
+      "cgId": "白音_CG131_考前划重点",
+      "name": "考前划重点",
+      "description": "白音 · 适合阶段：喜欢但不自知",
+      "tags": [
+        "白音",
+        "喜欢但不自知",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG131_考前划重点.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG131_考前划重点.webp"
+    },
+    {
+      "cgId": "白音_CG132_毕业",
+      "name": "毕业",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG132_毕业.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG132_毕业.webp"
+    },
+    {
+      "cgId": "白音_CG133_研究所的第一天",
+      "name": "研究所的第一天",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG133_研究所的第一天.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG133_研究所的第一天.webp"
+    },
+    {
+      "cgId": "白音_CG134_带你回家吃饭",
+      "name": "带你回家吃饭",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG134_带你回家吃饭.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG134_带你回家吃饭.webp"
+    },
+    {
+      "cgId": "白音_CG135_婚纱",
+      "name": "婚纱",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG135_婚纱.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG135_婚纱.webp"
+    },
+    {
+      "cgId": "白音_CG136_深夜的题目",
+      "name": "深夜的题目",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG136_深夜的题目.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG136_深夜的题目.webp"
+    },
+    {
+      "cgId": "白音_CG137_突然打来的电话",
+      "name": "突然打来的电话",
+      "description": "白音 · 适合阶段：等告白",
+      "tags": [
+        "白音",
+        "等告白",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG137_突然打来的电话.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG137_突然打来的电话.webp"
+    },
+    {
+      "cgId": "白音_CG138_雨天发呆",
+      "name": "雨天发呆",
+      "description": "白音 · 适合阶段：普通朋友",
+      "tags": [
+        "白音",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG138_雨天发呆.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG138_雨天发呆.webp"
+    },
+    {
+      "cgId": "白音_CG139_切换到高能",
+      "name": "切换到高能",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG139_切换到高能.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG139_切换到高能.webp"
+    },
+    {
+      "cgId": "白音_CG140_第一次牵手",
+      "name": "第一次牵手",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG140_第一次牵手.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG140_第一次牵手.webp"
+    },
+    {
+      "cgId": "白音_CG141_写给你的小程序",
+      "name": "写给你的小程序",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG141_写给你的小程序.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG141_写给你的小程序.webp"
+    },
+    {
+      "cgId": "白音_CG142_星空下的大笑",
+      "name": "星空下的大笑",
+      "description": "白音 · 适合阶段：恋人",
+      "tags": [
+        "白音",
+        "恋人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "白音_CG142_星空下的大笑.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG142_星空下的大笑.webp"
+    },
+    {
+      "cgId": "XL151_水族馆的两侧",
+      "name": "水族馆的两侧",
+      "description": "七濑澪、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL151_水族馆的两侧.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL151_水族馆的两侧.webp"
+    },
+    {
+      "cgId": "XL153_和好的冰棍",
+      "name": "和好的冰棍",
+      "description": "七濑澪、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL153_和好的冰棍.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL153_和好的冰棍.webp"
+    },
+    {
+      "cgId": "XL154_抽签比运气",
+      "name": "抽签比运气",
+      "description": "七濑澪、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL154_抽签比运气.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL154_抽签比运气.webp"
+    },
+    {
+      "cgId": "XL155_花田里迷路",
+      "name": "花田里迷路",
+      "description": "七濑澪、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL155_花田里迷路.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL155_花田里迷路.webp"
+    },
+    {
+      "cgId": "XL156_温室里的拌嘴",
+      "name": "温室里的拌嘴",
+      "description": "七濑澪、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL156_温室里的拌嘴.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL156_温室里的拌嘴.webp"
+    },
+    {
+      "cgId": "XL157_温泉乒乓双打",
+      "name": "温泉乒乓双打",
+      "description": "七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL157_温泉乒乓双打.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL157_温泉乒乓双打.webp"
+    },
+    {
+      "cgId": "XL158_展望台的沉默",
+      "name": "展望台的沉默",
+      "description": "七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL158_展望台的沉默.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL158_展望台的沉默.webp"
+    },
+    {
+      "cgId": "XL160_拉你唱歌",
+      "name": "拉你唱歌",
+      "description": "七濑澪、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL160_拉你唱歌.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL160_拉你唱歌.webp"
+    },
+    {
+      "cgId": "XL161_医务室的两个人",
+      "name": "医务室的两个人",
+      "description": "七濑澪、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL161_医务室的两个人.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL161_医务室的两个人.webp"
+    },
+    {
+      "cgId": "XL162_樱花道并肩",
+      "name": "樱花道并肩",
+      "description": "七濑澪、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL162_樱花道并肩.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL162_樱花道并肩.webp"
+    },
+    {
+      "cgId": "XL163_温室的两种花",
+      "name": "温室的两种花",
+      "description": "仇绾圆、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL163_温室的两种花.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL163_温室的两种花.webp"
+    },
+    {
+      "cgId": "XL164_茶和咖啡",
+      "name": "茶和咖啡",
+      "description": "仇绾圆、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL164_茶和咖啡.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL164_茶和咖啡.webp"
+    },
+    {
+      "cgId": "XL165_雨夜的长椅",
+      "name": "雨夜的长椅",
+      "description": "仇绾圆、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL165_雨夜的长椅.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL165_雨夜的长椅.webp"
+    },
+    {
+      "cgId": "XL167_两只御守",
+      "name": "两只御守",
+      "description": "仇绾圆、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL167_两只御守.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL167_两只御守.webp"
+    },
+    {
+      "cgId": "XL168_屋顶的两条毯子",
+      "name": "屋顶的两条毯子",
+      "description": "仇绾圆、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL168_屋顶的两条毯子.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL168_屋顶的两条毯子.webp"
+    },
+    {
+      "cgId": "XL169_参观实验室",
+      "name": "参观实验室",
+      "description": "仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL169_参观实验室.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL169_参观实验室.webp"
+    },
+    {
+      "cgId": "XL170_向日葵的数学",
+      "name": "向日葵的数学",
+      "description": "仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL170_向日葵的数学.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL170_向日葵的数学.webp"
+    },
+    {
+      "cgId": "XL171_公交车站",
+      "name": "公交车站",
+      "description": "仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL171_公交车站.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL171_公交车站.webp"
+    },
+    {
+      "cgId": "XL172_展望台的两个人",
+      "name": "展望台的两个人",
+      "description": "西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL172_展望台的两个人.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL172_展望台的两个人.webp"
+    },
+    {
+      "cgId": "XL173_电车两侧",
+      "name": "电车两侧",
+      "description": "西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL173_电车两侧.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL173_电车两侧.webp"
+    },
+    {
+      "cgId": "XL174_女仆咖啡厅的两个人",
+      "name": "女仆咖啡厅的两个人",
+      "description": "西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL174_女仆咖啡厅的两个人.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL174_女仆咖啡厅的两个人.webp"
+    },
+    {
+      "cgId": "XL175_游戏厅双人",
+      "name": "游戏厅双人",
+      "description": "西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL175_游戏厅双人.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL175_游戏厅双人.webp"
+    },
+    {
+      "cgId": "XL176_体育馆一对一",
+      "name": "体育馆一对一",
+      "description": "西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL176_体育馆一对一.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL176_体育馆一对一.webp"
+    },
+    {
+      "cgId": "XL177_电车里的游戏",
+      "name": "电车里的游戏",
+      "description": "西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL177_电车里的游戏.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL177_电车里的游戏.webp"
+    },
+    {
+      "cgId": "XL178_天台的午后",
+      "name": "天台的午后",
+      "description": "温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL178_天台的午后.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL178_天台的午后.webp"
+    },
+    {
+      "cgId": "XL179_水族馆的水母",
+      "name": "水族馆的水母",
+      "description": "温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL179_水族馆的水母.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL179_水族馆的水母.webp"
+    },
+    {
+      "cgId": "XL180_实验室的来访",
+      "name": "实验室的来访",
+      "description": "温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL180_实验室的来访.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL180_实验室的来访.webp"
+    },
+    {
+      "cgId": "XL181_五人女仆咖啡厅",
+      "name": "五人女仆咖啡厅",
+      "description": "七濑澪、白音、仇绾圆、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "仇绾圆",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL181_五人女仆咖啡厅.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL181_五人女仆咖啡厅.webp"
+    },
+    {
+      "cgId": "XL182_第一次五个人吃饭",
+      "name": "第一次五个人吃饭",
+      "description": "西行寺四叶、七濑澪、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL182_第一次五个人吃饭.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL182_第一次五个人吃饭.webp"
+    },
+    {
+      "cgId": "XL183_五个人的约定",
+      "name": "五个人的约定",
+      "description": "温迟迟、七濑澪、仇绾圆、西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "七濑澪",
+        "仇绾圆",
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL183_五个人的约定.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL183_五个人的约定.webp"
+    },
+    {
+      "cgId": "XL185_出发去旅行",
+      "name": "出发去旅行",
+      "description": "七濑澪、西行寺四叶、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL185_出发去旅行.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL185_出发去旅行.webp"
+    },
+    {
+      "cgId": "XL186_枕头大战",
+      "name": "枕头大战",
+      "description": "七濑澪、白音、仇绾圆、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "仇绾圆",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL186_枕头大战.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL186_枕头大战.webp"
+    },
+    {
+      "cgId": "XL187_谁睡你旁边",
+      "name": "谁睡你旁边",
+      "description": "西行寺四叶、七濑澪、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "七濑澪",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL187_谁睡你旁边.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL187_谁睡你旁边.webp"
+    },
+    {
+      "cgId": "XL188_做饭比赛",
+      "name": "做饭比赛",
+      "description": "七濑澪、仇绾圆、温迟迟、西行寺四叶、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "温迟迟",
+        "西行寺四叶",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL188_做饭比赛.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL188_做饭比赛.webp"
+    },
+    {
+      "cgId": "XL189_打烊后的五个人",
+      "name": "打烊后的五个人",
+      "description": "温迟迟、七濑澪、仇绾圆、白音、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL189_打烊后的五个人.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL189_打烊后的五个人.webp"
+    },
+    {
+      "cgId": "XL190_五人看烟花",
+      "name": "五人看烟花",
+      "description": "白音、温迟迟、仇绾圆、七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "白音",
+        "温迟迟",
+        "仇绾圆",
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL190_五人看烟花.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL190_五人看烟花.webp"
+    },
+    {
+      "cgId": "XL191_毕业合照",
+      "name": "毕业合照",
+      "description": "七濑澪、白音、仇绾圆、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "仇绾圆",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL191_毕业合照.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL191_毕业合照.webp"
+    },
+    {
+      "cgId": "XL192_五人游乐园",
+      "name": "五人游乐园",
+      "description": "七濑澪、西行寺四叶、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL192_五人游乐园.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL192_五人游乐园.webp"
+    },
+    {
+      "cgId": "XL193_五人水族馆",
+      "name": "五人水族馆",
+      "description": "温迟迟、白音、七濑澪、西行寺四叶、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL193_五人水族馆.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL193_五人水族馆.webp"
+    },
+    {
+      "cgId": "XL194_五人KTV",
+      "name": "五人KTV",
+      "description": "七濑澪、白音、仇绾圆、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "仇绾圆",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL194_五人KTV.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL194_五人KTV.webp"
+    },
+    {
+      "cgId": "XL195_包场电影",
+      "name": "包场电影",
+      "description": "西行寺四叶、七濑澪、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL195_包场电影.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL195_包场电影.webp"
+    },
+    {
+      "cgId": "XL196_抢着拿书包",
+      "name": "抢着拿书包",
+      "description": "七濑澪、仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL196_抢着拿书包.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL196_抢着拿书包.webp"
+    },
+    {
+      "cgId": "XL197_四人桌游",
+      "name": "四人桌游",
+      "description": "西行寺四叶、白音、七濑澪、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "七濑澪",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL197_四人桌游.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL197_四人桌游.webp"
+    },
+    {
+      "cgId": "XL198_三人鬼屋",
+      "name": "三人鬼屋",
+      "description": "七濑澪、温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL198_三人鬼屋.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL198_三人鬼屋.webp"
+    },
+    {
+      "cgId": "XL199_劝架",
+      "name": "劝架",
+      "description": "七濑澪、仇绾圆、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL199_劝架.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL199_劝架.webp"
+    },
+    {
+      "cgId": "XL200_一起管闲事",
+      "name": "一起管闲事",
+      "description": "温迟迟、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL200_一起管闲事.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL200_一起管闲事.webp"
+    },
+    {
+      "cgId": "XL201_五人雪中散步",
+      "name": "五人雪中散步",
+      "description": "七濑澪、白音、仇绾圆、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "仇绾圆",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL201_五人雪中散步.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL201_五人雪中散步.webp"
+    },
+    {
+      "cgId": "XL202_新年参拜",
+      "name": "新年参拜",
+      "description": "七濑澪、西行寺四叶、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL202_新年参拜.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL202_新年参拜.webp"
+    },
+    {
+      "cgId": "XL203_毕业后的同学会",
+      "name": "毕业后的同学会",
+      "description": "七濑澪、西行寺四叶、仇绾圆、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL203_毕业后的同学会.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL203_毕业后的同学会.webp"
+    },
+    {
+      "cgId": "XL204_为你庆生",
+      "name": "为你庆生",
+      "description": "仇绾圆、七濑澪、西行寺四叶、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "七濑澪",
+        "西行寺四叶",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL204_为你庆生.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL204_为你庆生.webp"
+    },
+    {
+      "cgId": "XL206_同时发来的消息",
+      "name": "同时发来的消息",
+      "description": "西行寺四叶、白音、七濑澪、温迟迟、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "西行寺四叶",
+        "白音",
+        "七濑澪",
+        "温迟迟",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL206_同时发来的消息.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL206_同时发来的消息.webp"
+    },
+    {
+      "cgId": "XL207_五人分西瓜",
+      "name": "五人分西瓜",
+      "description": "仇绾圆、七濑澪、白音、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "七濑澪",
+        "白音",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL207_五人分西瓜.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL207_五人分西瓜.webp"
+    },
+    {
+      "cgId": "XL208_樱花下的合照",
+      "name": "樱花下的合照",
+      "description": "温迟迟、西行寺四叶、七濑澪、仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "温迟迟",
+        "西行寺四叶",
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL208_樱花下的合照.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL208_樱花下的合照.webp"
+    },
+    {
+      "cgId": "XL209_五人星空",
+      "name": "五人星空",
+      "description": "白音、温迟迟、七濑澪、西行寺四叶、仇绾圆 · 适合阶段：争宠",
+      "tags": [
+        "白音",
+        "温迟迟",
+        "七濑澪",
+        "西行寺四叶",
+        "仇绾圆",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL209_五人星空.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL209_五人星空.webp"
+    },
+    {
+      "cgId": "XL210_后宫线的早晨",
+      "name": "后宫线的早晨",
+      "description": "仇绾圆、七濑澪、白音、西行寺四叶、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "七濑澪",
+        "白音",
+        "西行寺四叶",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-30T14:36:07Z",
+      "file": "XL210_后宫线的早晨.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL210_后宫线的早晨.webp"
     }
   ],
   "maps": [],
