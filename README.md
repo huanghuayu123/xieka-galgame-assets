@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | `sprites/` | 立绘（WebP，透明底），五人 × 日常/私服/睡衣/春装/夏装/秋装/冬装 × 五种表情 | 175 |
 | `backgrounds/` | 背景（WebP），文件名就是场景名 | 51 |
-| `special-cgs/` | 后来补的 CG | 347 |
+| `special-cgs/` | 后来补的 CG | 357 |
 | CG | 最早的一批在另一个仓库 [huanghuayu123/xieka-galgame-cg](https://github.com/huanghuayu123/xieka-galgame-cg)（jsDelivr 不加速超过 150 MB 的仓库，所以分开放） | 563 |
 
 ## 立绘表情

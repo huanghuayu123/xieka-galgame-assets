@@ -1,6 +1,6 @@
 {
   "packageName": "什么！我的大学生活怎么会被五个女生霸占",
-  "exportDate": "2026-10-30T14:36:07Z",
+  "exportDate": "2026-10-31T00:49:57Z",
   "packId": "pack_default",
   "sprites": [
     {
@@ -15466,6 +15466,155 @@
       "lastModified": "2026-10-30T14:36:07Z",
       "file": "XL210_后宫线的早晨.webp",
       "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL210_后宫线的早晨.webp"
+    },
+    {
+      "cgId": "温迟迟_CG105_KTV只听不唱",
+      "name": "KTV只听不唱",
+      "description": "温迟迟 · 适合阶段：普通朋友",
+      "tags": [
+        "温迟迟",
+        "普通朋友",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "温迟迟_CG105_KTV只听不唱.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG105_KTV只听不唱.webp"
+    },
+    {
+      "cgId": "温迟迟_CG107_挑御守",
+      "name": "挑御守",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "温迟迟_CG107_挑御守.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG107_挑御守.webp"
+    },
+    {
+      "cgId": "温迟迟_CG126_读你推荐的书",
+      "name": "读你推荐的书",
+      "description": "温迟迟 · 适合阶段：暗恋",
+      "tags": [
+        "温迟迟",
+        "暗恋",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "温迟迟_CG126_读你推荐的书.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/温迟迟_CG126_读你推荐的书.webp"
+    },
+    {
+      "cgId": "白音_CG107_抽签",
+      "name": "抽签",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "白音_CG107_抽签.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG107_抽签.webp"
+    },
+    {
+      "cgId": "白音_CG123_修自行车",
+      "name": "修自行车",
+      "description": "白音 · 适合阶段：有趣的人",
+      "tags": [
+        "白音",
+        "有趣的人",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "白音_CG123_修自行车.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/白音_CG123_修自行车.webp"
+    },
+    {
+      "cgId": "XL152_跳舞机对决",
+      "name": "跳舞机对决",
+      "description": "七濑澪、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "XL152_跳舞机对决.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL152_跳舞机对决.webp"
+    },
+    {
+      "cgId": "XL159_日语和中文",
+      "name": "日语和中文",
+      "description": "七濑澪、西行寺四叶 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "西行寺四叶",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "XL159_日语和中文.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL159_日语和中文.webp"
+    },
+    {
+      "cgId": "XL166_书店的推荐",
+      "name": "书店的推荐",
+      "description": "仇绾圆、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "仇绾圆",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "XL166_书店的推荐.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL166_书店的推荐.webp"
+    },
+    {
+      "cgId": "XL184_排班表",
+      "name": "排班表",
+      "description": "七濑澪、仇绾圆、白音 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "白音",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "XL184_排班表.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL184_排班表.webp"
+    },
+    {
+      "cgId": "XL205_同时到你家门口",
+      "name": "同时到你家门口",
+      "description": "七濑澪、仇绾圆、西行寺四叶、白音、温迟迟 · 适合阶段：争宠",
+      "tags": [
+        "七濑澪",
+        "仇绾圆",
+        "西行寺四叶",
+        "白音",
+        "温迟迟",
+        "争宠",
+        "第四批"
+      ],
+      "packId": "pack_default",
+      "lastModified": "2026-10-31T00:49:57Z",
+      "file": "XL205_同时到你家门口.webp",
+      "url": "https://cdn.jsdelivr.net/gh/huanghuayu123/xieka-galgame-assets@main/special-cgs/XL205_同时到你家门口.webp"
     }
   ],
   "maps": [],
